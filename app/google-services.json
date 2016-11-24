@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "137088517097",
+    "firebase_url": "https://kplc-86b5e.firebaseio.com",
+    "project_id": "kplc-86b5e",
+    "storage_bucket": "kplc-86b5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137088517097:android:7fa0c6f8e7d07c6b",
+        "android_client_info": {
+          "package_name": "com.example.kithi.kplc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137088517097-osf630un0545po6h18p2mbbb3qmrk51s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kithi.kplc",
+            "certificate_hash": "2E15C5A4FAF77E6391173AB00A602CD09E53C1AE"
+          }
+        },
+        {
+          "client_id": "137088517097-c6cudlqvddv5ck2afvmfl1ac0e440p6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj20mwU51SqLQThpBcXDUGhUnPul5mKdM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137088517097-c6cudlqvddv5ck2afvmfl1ac0e440p6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
